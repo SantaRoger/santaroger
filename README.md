@@ -3,13 +3,7 @@
 Let's get it out of the way, yes, I am a professional Santa Claus!   
 
 #### Current Tools
-<img src="https://img.shields.io/badge/OS-MacOS-informational?logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-React-informational?logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-Next.js-informational?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean&logoColor=white" /> 
+<img src="https://img.shields.io/badge/OS-MacOS-informational?logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Code-React-informational?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Code-Next.js-informational?logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean&logoColor=white" /> 
 
 ##### Connect with me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RogerMinton)
@@ -31,8 +25,7 @@ Over the course of my career I have utilized a lot of technologies. Here are the
 
 ---
 ##### Where I like to Game
-<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=flat&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=flat&logo=nintendo%20switch&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" />
 
 
 
