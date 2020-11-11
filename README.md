@@ -1,5 +1,5 @@
 ### Hi there, I'm Roger Minton 👋
-##### Technology Leader &amp; Professional Santa Claus
+#### Technology Leader &amp; 🎅🏻 Professional Santa Claus 🎅🏻
 Let's get it out of the way, yes, I am a professional Santa Claus!   
 
 #### Current Tools
