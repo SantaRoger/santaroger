@@ -3,11 +3,7 @@
 Let's get it out of the way, yes, I am a professional Santa Claus!   
 
 #### Current Tools
-<img src="https://img.shields.io/badge/OS-MacOS-informational?logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Code-React-informational?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Code-Next.js-informational?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean&logoColor=white" /> 
+<img src="https://img.shields.io/badge/OS-MacOS-informational?logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Code-React-informational?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Code-Next.js-informational?logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?logo=digitalocean&logoColor=white" /> 
 
 ##### Connect with me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RogerMinton)
